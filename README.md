@@ -18,7 +18,8 @@ The hardware must support / provide below features:
 - Solar Panel Integration
     - Small, efficient solar panel to trickle-charge the battery. Preferably the soft version.
 - LED Lights
-    - Required in each compartment. Quantity to be determined from Engineering side that has sufficient illumination
+    - Required in each compartment. Quantity to be determined from Engineering side that has sufficient illumination.
+    - LEDs will only be functional for 15 seconds and would come ON when the compartment casing is opened and then closed. This allows the end user to capture clear picture that they're returned the item and upload it for validation.
  
 - Outputs
     - 6 x Outputs / Locks to be operatable at one time.
