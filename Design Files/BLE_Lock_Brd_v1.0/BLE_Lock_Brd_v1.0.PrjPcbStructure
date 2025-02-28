@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=Controller_Sheet.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Controller_Sheet.SchDoc|FileName=Power_Sheet.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Connector_Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connector_Sheet.SchDoc|FileName=Controller_Sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connector_Sheet.SchDoc|FileName=Power_Sheet.SchDoc|SheetNumber=1
